@@ -2,6 +2,14 @@
 
 面向 coding agent / Cursor 的 **网页操作录屏 Skill**：按确认流程，把任意网站的浏览与操作录成演示视频（脚本驱动、自定义鼠标、系统/浏览器音效、可选 BGM）。
 
+## 演示
+
+竖屏讲解片，硬烧中英字幕 — 网页交互录屏 Skill。
+
+<video src="./readme.mp4" controls width="360"></video>
+
+[演示说明视频 (readme.mp4)](./readme.mp4)
+
 ## 安装
 
 把本仓库的 `SKILL.md` 放到你的 agent skills / workflows 目录（或按你所用工具的 skill 安装方式引用本文件）。
