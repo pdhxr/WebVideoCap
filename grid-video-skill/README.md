@@ -7,7 +7,7 @@
 不要通读整支视频。片尾或本页只要这一行：
 
 ```
-SKILL_URL=https://raw.githubusercontent.com/pdhxr/GridVideoSkill/main/SKILL.md
+SKILL_URL=https://raw.githubusercontent.com/pdhxr/WebVideoCap/main/grid-video-skill/SKILL.md
 ```
 
 ```bash

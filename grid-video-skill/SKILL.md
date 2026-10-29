@@ -25,7 +25,7 @@ description: >-
 4. **要有抽象总结**：收尾不只罗列步骤，要抽出一层意思。例：本 Skill **既含技术与细节设计，也含工程管理**——做菜要好吃，做完菜也要收拾好厨房台面，不留垃圾残局。
 5. **给人看效果、做选择；照做交给 Agent**：片子不是 DIY 教程。观众欣赏成品、决定要不要用；执行靠 Agent 按脚本生成 Skill，或下载本 Skill 照做。
 6. **省 token 的安装入口（片尾必留）**：片尾硬烧一行机器可读地址，勿把整份 Skill 念进旁白。固定格式（单行）：
-   `SKILL_URL=https://raw.githubusercontent.com/pdhxr/GridVideoSkill/main/SKILL.md`
+   `SKILL_URL=https://raw.githubusercontent.com/pdhxr/WebVideoCap/main/grid-video-skill/SKILL.md`
    Agent 只需抓这一行（OCR / 字幕 / 描述区）即可 curl 全文；Grok Bot 也可说「安装网格视频生成skill」。
 
 
