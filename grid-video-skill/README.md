@@ -2,14 +2,6 @@
 
 面向 coding agent / Grok Bot 的 **竖屏 Remotion 技术说明片 Skill**：黑底 + 天花板/地板网格、讲解文案、旁白与示例演示。
 
-## 演示
-
-当前 Skill 演示 / 讲解片（竖屏讲解片，硬烧中英字幕）：
-
-<video src="./readme.mp4" controls width="360"></video>
-
-[演示说明视频 (readme.mp4)](./readme.mp4)
-
 ## 给 Agent（省 token）
 
 不要通读整支视频。片尾或本页只要这一行：
